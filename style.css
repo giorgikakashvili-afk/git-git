@@ -1,0 +1,27 @@
+h1{
+    font-size: 40px;
+    color: #949815;
+    font-weight: 100;
+    text-align: center;
+}
+
+
+img{
+    width: 700px;
+    
+}
+
+hr{
+    width: 200px;
+    border-width: 3px;
+}
+
+ul{
+   color: #949815; 
+}
+
+
+body{
+    background-color: blueviolet;
+    color: rgb(255, 255, 255)
+}
